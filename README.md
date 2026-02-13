@@ -8,7 +8,6 @@
 🎓 Computer Science Student at ESPRIT  
 💡 Passionate about building real-world web applications  
 🧠 Interested in Machine Learning & Deep Learning  
-🚀 Currently developing full stack projects with Spring Boot & Angular  
 🌱 Always learning and improving  
 
 ---
@@ -19,7 +18,7 @@
 - Java
 - Spring Boot
 - REST APIs
-- JWT Authentication
+
 
 ### 🌐 Frontend
 - Angular
