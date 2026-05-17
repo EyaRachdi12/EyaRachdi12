@@ -1,0 +1,58 @@
+[
+  {
+    "id": "b5d1136e-bb42-4930-9626-f27b2e13988d",
+    "name": "azds",
+    "email": "mohamed.rabeh@esprit.tn",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "role": "client",
+    "specialty": "",
+    "city": "éz",
+    "project_type": "",
+    "avatar": "A",
+    "token": "179cc4a92f841c06700c75f452d925c934ecedb83e1b53c975ddaea4026c8d92",
+    "created_at": "Mai 2026",
+    "status": "Actif"
+  },
+  {
+    "id": "f71ac10f-6887-417d-ad65-167db7a0b6ed",
+    "name": "jack",
+    "email": "mohamed.rabeh140@gmail.com",
+    "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+    "role": "architect",
+    "specialty": "Architecture résidentielle",
+    "city": "paris",
+    "project_type": "Architecture résidentielle",
+    "avatar": "J",
+    "token": "a9564518c433ea1eb8a9b2580487c7d84322d8a878e1cdc5376f1853eac030d7",
+    "created_at": "Mai 2026",
+    "status": "Actif"
+  },
+  {
+    "id": "7ba08bb0-ed07-4cce-a949-b73b32ad6a6e",
+    "name": "EyaRachdi",
+    "email": "rachdieya11@gmail.com",
+    "password": "655f35bd5065e4a715339de9ced80fc08c891aa899cfe1baa36c3508f716c558",
+    "role": "architect",
+    "specialty": "Architecture d'intérieur",
+    "city": "Tunis",
+    "project_type": "Architecture d'intérieur",
+    "avatar": "E",
+    "token": "331ec5244751e0f893a8baadd31c1cbc76d58c8888fc66855c07b1fcdaa06821",
+    "created_at": "Mai 2026",
+    "status": "Actif"
+  },
+  {
+    "id": "93228186-fce4-4577-b0d1-2fdf27de7ec2",
+    "name": "Client",
+    "email": "eyarachdi2002@gmail.com",
+    "password": "0f9dfc15d3bef5dfb821d162516484d80ce75cfa64b4b9638083a536fac7e254",
+    "role": "client",
+    "specialty": "",
+    "city": "Tunis",
+    "project_type": "",
+    "avatar": "C",
+    "token": "73cab306e14a5abb411df880326503eef239b1eee609d40dccb1df194f869bca",
+    "created_at": "Mai 2026",
+    "status": "Actif"
+  }
+]

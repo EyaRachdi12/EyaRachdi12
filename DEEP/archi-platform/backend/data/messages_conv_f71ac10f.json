@@ -1,0 +1,24 @@
+[
+  {
+    "id": "msg_79484c40",
+    "conv_id": "conv_f71ac10f",
+    "sender_role": "client",
+    "sender": "jack",
+    "text": "J'ai généré des esquisses IA en style Contemporain. Voici \"Façade principale\". Pouvez-vous me donner votre avis ? 🎨",
+    "time": "Maintenant",
+    "timestamp": 1778429720,
+    "image_url": "blob:http://localhost:3000/b70cb508-6059-4497-bfec-0069e609ad4f",
+    "image_name": "Façade principale.png"
+  },
+  {
+    "id": "msg_6cd06fbd",
+    "conv_id": "conv_f71ac10f",
+    "sender_role": "client",
+    "sender": "jack",
+    "text": "J'ai généré des esquisses IA en style Contemporain. Voici \"Façade principale\". Pouvez-vous me donner votre avis ? 🎨",
+    "time": "Maintenant",
+    "timestamp": 1778682770,
+    "image_url": "blob:http://localhost:3000/e0d74e22-6ac7-4584-8844-f95b2910c32c",
+    "image_name": "Façade principale.png"
+  }
+]

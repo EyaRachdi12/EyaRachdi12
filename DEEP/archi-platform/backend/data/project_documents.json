@@ -1,0 +1,24 @@
+[
+  {
+    "id": "doc_1715000001",
+    "project_id": "28e84b10",
+    "name": "Plan V1 — Initial",
+    "type": "PNG",
+    "size": "2.4 MB",
+    "status": "Archivé",
+    "date": "28 Avr",
+    "file_path": "studio-modern.png",
+    "created_at": 1715000001
+  },
+  {
+    "id": "doc_1715000002",
+    "project_id": "28e84b10",
+    "name": "Plan V2 — Révisé",
+    "type": "PNG",
+    "size": "2.8 MB",
+    "status": "Actif",
+    "date": "30 Avr",
+    "file_path": "t3-family.png",
+    "created_at": 1715000002
+  }
+]

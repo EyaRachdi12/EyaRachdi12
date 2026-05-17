@@ -1,0 +1,26 @@
+[
+  {
+    "id": "conv_b5d1136e",
+    "project": "",
+    "architect_id": "arch_1",
+    "architect": "Architecte",
+    "client_id": "b5d1136e-bb42-4930-9626-f27b2e13988d",
+    "client": "azds",
+    "last_message": "Voici l'analyse du plan : logement - Contemporain. apartment",
+    "last_time": "Maintenant",
+    "unread_client": 0,
+    "unread_arch": 0
+  },
+  {
+    "id": "conv_93228186",
+    "project": "",
+    "architect_id": "arch_1",
+    "architect": "Architecte",
+    "client_id": "93228186-fce4-4577-b0d1-2fdf27de7ec2",
+    "client": "Client",
+    "last_message": "Nouveau client inscrit : Client",
+    "last_time": "Maintenant",
+    "unread_client": 0,
+    "unread_arch": 1
+  }
+]

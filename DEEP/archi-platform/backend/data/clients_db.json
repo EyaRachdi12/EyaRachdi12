@@ -1,0 +1,27 @@
+[
+  {
+    "id": "b5d1136e-bb42-4930-9626-f27b2e13988d",
+    "name": "azds",
+    "email": "mohamed.rabeh@esprit.tn",
+    "project": "Villa Moderne",
+    "phone": "+216 12 345 678",
+    "city": "Tunis",
+    "status": "Actif",
+    "since": "Mai 2026",
+    "projects": 1,
+    "avatar": "A",
+    "project_type": "Villa"
+  },
+  {
+    "id": "93228186-fce4-4577-b0d1-2fdf27de7ec2",
+    "name": "Client",
+    "email": "eyarachdi2002@gmail.com",
+    "project": "",
+    "phone": "",
+    "city": "Tunis",
+    "status": "Actif",
+    "since": "Mai 2026",
+    "projects": 0,
+    "avatar": "C"
+  }
+]

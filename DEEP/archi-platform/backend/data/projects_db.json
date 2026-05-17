@@ -1,0 +1,18 @@
+[
+  {
+    "id": "28e84b10",
+    "name": "Villa Moderne",
+    "client_id": "b5d1136e-bb42-4930-9626-f27b2e13988d",
+    "client_name": "azds",
+    "architect_id": "arch_1",
+    "status": "En cours",
+    "progress": 35,
+    "type": "Résidentiel",
+    "area": "120",
+    "budget": "350000",
+    "date": "Mai 2026",
+    "created_at": "1778282038",
+    "plan_caption": "Villa moderne avec 3 chambres, salon spacieux, cuisine ouverte et terrasse",
+    "plan_style": "Contemporain"
+  }
+]
