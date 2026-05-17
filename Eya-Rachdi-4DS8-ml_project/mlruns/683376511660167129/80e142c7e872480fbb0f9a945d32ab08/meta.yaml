@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/683376511660167129/80e142c7e872480fbb0f9a945d32ab08/artifacts
+end_time: 1764687329374
+entry_point_name: ''
+experiment_id: '683376511660167129'
+lifecycle_stage: active
+run_id: 80e142c7e872480fbb0f9a945d32ab08
+run_name: Full_HR_Attrition_Pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764687329198
+status: 3
+tags: []
+user_id: eya

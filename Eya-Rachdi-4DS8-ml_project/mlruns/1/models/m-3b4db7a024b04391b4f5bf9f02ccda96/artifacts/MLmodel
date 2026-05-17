@@ -1,0 +1,22 @@
+artifact_path: /home/eya/Eya-Rachdi-4DS8-ml_project/mlruns/1/models/m-3b4db7a024b04391b4f5bf9f02ccda96/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-3b4db7a024b04391b4f5bf9f02ccda96
+model_size_bytes: 6659
+model_uuid: m-3b4db7a024b04391b4f5bf9f02ccda96
+prompts: null
+run_id: 4a1d73626ac54ce5aaf7c8d642d63fa8
+utc_time_created: '2025-12-09 14:47:21.177040'
