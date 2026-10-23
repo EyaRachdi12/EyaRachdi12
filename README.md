@@ -4,7 +4,7 @@
 
 🎓 Final-Year Data Science Engineering Student at **ESPRIT, Tunisia**  
 🤖 Building AI-powered solutions for real-world problems  
-🔎 **Seeking a 6-Month End-of-Studies Internship (PFE) in Tunisia — December 2027**
+🔎 **Seeking a 6-Month End-of-Studies Internship (PFE) in Tunisia — December 2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/eya-rachdi-6b3a99364/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=flat&logo=github)](https://github.com/EyaRachdi12)
