@@ -204,7 +204,7 @@ An intelligent fashion application combining wardrobe management, visual underst
 I'm looking for opportunities to apply my skills in Data Science, Machine Learning, Generative AI, and AI Engineering in a professional environment.
 
 📍 **Location:** Tunis, Tunisia  
-🎯 **Looking for:** 6-month end-of-studies internship (PFE) in Tunisia, starting December 2027  
+🎯 **Looking for:** 6-month end-of-studies internship (PFE) in Tunisia, starting December 2026
 📧 **Email:** [Eya.Rachdi@esprit.tn](mailto:Eya.Rachdi@esprit.tn)  
 💼 **LinkedIn:** [eya-rachdi](https://www.linkedin.com/in/eya-rachdi-6b3a99364/)  
 🐙 **GitHub:** [EyaRachdi12](https://github.com/EyaRachdi12)
