@@ -76,20 +76,9 @@ An AI-powered recruitment solution that matches candidate profiles with relevant
 
 **Technologies:** `Python` `NLP` `Sentence Transformers` `Scikit-learn` `Streamlit`
 
-### 🏭 4. IndustrialGuard AI — Predictive Maintenance
 
-**Domain:** Industrial AI · Time Series · Predictive Modeling
 
-A predictive maintenance project designed to estimate Remaining Useful Life (RUL) and anticipate potential equipment failures using the NASA C-MAPSS turbofan engine dataset.
-
-- Time-series preprocessing and exploratory data analysis.
-- Sliding-window generation for sequential modeling.
-- Predictive modeling of equipment degradation.
-- Evaluation of model performance for proactive maintenance.
-
-**Technologies:** `Python` `Machine Learning` `Deep Learning` `Time Series` `NASA C-MAPSS`
-
-### 👗 5. DressMe — AI-Powered Fashion Assistant
+### 👗 4. DressMe — AI-Powered Fashion Assistant
 
 **Domain:** Computer Vision · Personalization · AI Agents
 
@@ -103,7 +92,22 @@ An intelligent fashion application combining wardrobe management, visual underst
 
 **Technologies:** `Python` `FastAPI` `Computer Vision` `CLIP` `React Native` `PostgreSQL`
 
+### 🏛️ 5. AI Museum of the Future — Multi-Agent AI Virtual Museum
 
+**Domain:** Advanced Deep Learning · Multi-Agent Systems · RAG · Multimodal AI
+
+An AI-powered virtual museum that imagines how future generations might understand and preserve our current era. The platform collects contemporary information from public sources and transforms it into a curated virtual exhibition through specialized AI agents.
+
+- Automated collection and preprocessing of contemporary data from public sources.
+- RAG-based knowledge base using embeddings, vector search, and hybrid retrieval.
+- Five specialized AI agents covering history, sociology, science & technology, culture & art, and visual analysis.
+- Multi-agent orchestration with peer review and cross-validation.
+- AI curator synthesizing findings into coherent, evidence-grounded exhibitions.
+- Multimodal analysis combining textual and visual information.
+- Automated end-to-end workflows using n8n.
+- Fact-checking and source-based citations to improve factual reliability.
+
+**Technologies:** `Python` `LLMs` `RAG` `LangChain` `Multi-Agent AI` `FastEmbed` `Supabase` `Groq` `n8n` `Computer Vision` `Flask`
 ---
 
 ## 🛠️ Technical Skills
